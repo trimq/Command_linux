@@ -26,6 +26,11 @@ g+g
 số dòng + shift+g
 ```
 
+- Chuyển đến 1 nội dung bất kì:
+```sh
+/ tên nội dung
+```
+
 ## Một số thao tác cơ bản với command line
 - Chuyển đến đầu command line
 ```sh
